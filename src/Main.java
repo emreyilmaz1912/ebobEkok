@@ -6,10 +6,10 @@ public class Main {
         Scanner input = new Scanner(System.in);
         int n1, n2, ebob = 1, ekok = 1, i = 1, j = 1;
 
-        System.out.print("1.sayiyi giriniz: ");
+        System.out.print("1. sayıyı giriniz : ");
         n1 = input.nextInt();
 
-        System.out.print("2.sayiyi giriniz: ");
+        System.out.print("2. sayıyı giriniz : ");
         n2 = input.nextInt();
 
         if (n1 < n2) {
